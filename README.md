@@ -26,7 +26,7 @@ ReactDOM.render(<MyChart data1={data1} data2={data2} />, document.getElementById
 ```
 ## Frequently Asked Questions 
 **Q: why does this exist?**
-A: idk inpsired by the meme at my work place.
+A: idk inpsired by the meme at my work place. also we use highcharts a lot so......
 
 **Q: ss this scientifically accurate?**
 A: fuck around and find out.
