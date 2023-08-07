@@ -6,7 +6,7 @@ powered by ts and Highcharts, my application will provide you with the most scie
 
 ## How to Install
 
-Installing is easy as pie, and much faster:
+nstalling is ez pz, just:
 
 ```bash
 npm install
