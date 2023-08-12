@@ -13,7 +13,7 @@ npm install
 ```
 
 ## How to Use
-just plug in your data arrays into the MyChart component, like so:
+just plug your data arrays into the MyChart component, like so:
 ```tsx
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -26,9 +26,9 @@ ReactDOM.render(<MyChart data1={data1} data2={data2} />, document.getElementById
 ```
 ## Frequently Asked Questions 
 **Q: why does this exist?**
-A: idk inpsired by the meme at my work place. also we use highcharts a lot so......
+A: idk inspired by the meme at my workplace. also, we use highcharts a lot so......
 
-**Q: ss this scientifically accurate?**
+**Q: is this scientifically accurate?**
 A: fuck around and find out.
 
 **Q: can I use this tool to win arguments on the internet?**
